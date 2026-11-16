@@ -75,3 +75,11 @@ a {
 .projects-page article a {
     color: #93c5fd;
 }
+
+/* Keeps the footer at the bottom and across the full screen */
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
